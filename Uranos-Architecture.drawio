@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:27:44.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t6mb1IL8IwfVaTNmelC6" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:52:18.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2gj1Eaz-hfj03bkdtwQ3" version="20.0.4" type="github">
   <diagram id="CEniq_TR2ihdHZLMvwL3" name="Page-1">
     <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="VPFrxmpOL_sy5obyjlSU-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;fontColor=#009999;strokeColor=#00CCCC;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="480" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPFrxmpOL_sy5obyjlSU-3" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="1">
+        <mxCell id="VPFrxmpOL_sy5obyjlSU-3" value="Private subnet(1b)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-8" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-9" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
           <mxGeometry x="860" y="40" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="VPFrxmpOL_sy5obyjlSU-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#009999;strokeColor=#FF0000;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
-          <mxGeometry x="80" y="190" width="620" height="460" as="geometry" />
         </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-10" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;dashed=1;fontSize=14;fontColor=#009999;strokeColor=#00CCCC;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1400" y="120" width="80" height="80" as="geometry" />
