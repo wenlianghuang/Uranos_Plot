@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T08:46:59.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mK4OAv4F4uIgIqDQG0EI" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T08:52:48.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UJh_c_nSY3Z87kpreCBY" version="20.0.4" type="github">
   <diagram id="CEniq_TR2ihdHZLMvwL3" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;fontColor=#009999;strokeColor=#00CCCC;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="480" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VPFrxmpOL_sy5obyjlSU-3" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="435" width="230" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
