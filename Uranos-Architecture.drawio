@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:11:52.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4ZXLGU6yt6IDJEFkpPBx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:27:44.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t6mb1IL8IwfVaTNmelC6" version="20.0.4" type="github">
   <diagram id="CEniq_TR2ihdHZLMvwL3" name="Page-1">
     <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,6 +51,24 @@
         </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-10" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;dashed=1;fontSize=14;fontColor=#009999;strokeColor=#00CCCC;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1400" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VPFrxmpOL_sy5obyjlSU-12" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;dashed=1;fontSize=14;fontColor=#009999;strokeColor=#FF0000;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="210" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VPFrxmpOL_sy5obyjlSU-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#009999;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="220" as="sourcePoint" />
+            <mxPoint x="1010" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPFrxmpOL_sy5obyjlSU-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#009999;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="274" as="sourcePoint" />
+            <mxPoint x="690" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
