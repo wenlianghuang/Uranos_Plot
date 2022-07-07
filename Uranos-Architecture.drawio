@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T03:30:58.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bsJ-TLaB2RapJBOGaLbg" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T03:41:41.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qWeCQw3exilT9WeNMPCW" version="20.0.4" type="github">
   <diagram id="CEniq_TR2ihdHZLMvwL3" name="Page-1">
     <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="170" y="570" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s74JvbKv9A3GNjfIYB-O-1" value="WAF" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
-          <mxGeometry x="70" y="240" width="50" height="30" as="geometry" />
+          <mxGeometry x="30" y="210" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s74JvbKv9A3GNjfIYB-O-3" value="Load Balancer" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
           <mxGeometry x="80" y="445" width="100" height="30" as="geometry" />
@@ -84,9 +84,6 @@
         </mxCell>
         <mxCell id="s74JvbKv9A3GNjfIYB-O-8" value="Connect S3 to EC2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
           <mxGeometry x="680" y="40" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="s74JvbKv9A3GNjfIYB-O-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
-          <mxGeometry x="80" y="190" width="720" height="460" as="geometry" />
         </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-12" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;dashed=1;fontSize=14;fontColor=#009999;strokeColor=#FF0000;strokeWidth=2;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1190" y="210" width="90" height="110" as="geometry" />
@@ -130,6 +127,9 @@
             <mxPoint x="1276" y="292.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s74JvbKv9A3GNjfIYB-O-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="720" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
