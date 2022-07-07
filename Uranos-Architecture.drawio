@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T03:12:52.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yxxuuXChXm9zAJbNEoJx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T03:19:49.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TMqyCXNdH0Yfc8Wis6mF" version="20.0.4" type="github">
   <diagram id="CEniq_TR2ihdHZLMvwL3" name="Page-1">
     <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,9 +58,6 @@
         <mxCell id="s74JvbKv9A3GNjfIYB-O-2" value="NAT gateway" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-23">
           <mxGeometry x="6" y="105" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s74JvbKv9A3GNjfIYB-O-5" value="VPC EndPoint" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-23">
-          <mxGeometry x="160" y="8" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-29" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Internet Gateway&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=15;fontColor=#009999;" parent="VPFrxmpOL_sy5obyjlSU-8" vertex="1">
           <mxGeometry x="170" y="570" width="110" height="30" as="geometry" />
         </mxCell>
@@ -75,6 +72,18 @@
         </mxCell>
         <mxCell id="s74JvbKv9A3GNjfIYB-O-6" value="S3 Storage&lt;br&gt;for Module" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
           <mxGeometry x="859" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s74JvbKv9A3GNjfIYB-O-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=1 1;strokeWidth=3;" edge="1" parent="VPFrxmpOL_sy5obyjlSU-8" source="VPFrxmpOL_sy5obyjlSU-9" target="VPFrxmpOL_sy5obyjlSU-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="130" as="sourcePoint" />
+            <mxPoint x="680" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s74JvbKv9A3GNjfIYB-O-8" value="Connect S3 to EC2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="VPFrxmpOL_sy5obyjlSU-8">
+          <mxGeometry x="680" y="40" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPFrxmpOL_sy5obyjlSU-12" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;dashed=1;fontSize=14;fontColor=#009999;strokeColor=#FF0000;strokeWidth=2;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1190" y="210" width="90" height="110" as="geometry" />
